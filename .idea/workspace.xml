@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d562fe-1b69-4113-976f-4d754d9dcebb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/y5-media.html" beforeDir="false" afterPath="$PROJECT_DIR$/y5-media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627827057139</updated>
-      <workItem from="1627827059890" duration="8725000" />
+      <workItem from="1627827059890" duration="9006000" />
     </task>
     <servers />
   </component>
@@ -103,5 +102,6 @@
     <MESSAGE value="Fixed titles" />
     <MESSAGE value="Cleaned up" />
     <MESSAGE value="Added pages for site" />
+    <MESSAGE value="Hide contact" />
   </component>
 </project>
