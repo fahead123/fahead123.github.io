@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6d562fe-1b69-4113-976f-4d754d9dcebb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/espetadas.html" beforeDir="false" afterPath="$PROJECT_DIR$/espetadas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +52,8 @@
       <recent name="$PROJECT_DIR$/assets/css/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/archive" />
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/archive" />
     </key>
   </component>
   <component name="RunManager">
@@ -76,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627827057139</updated>
-      <workItem from="1627827059890" duration="7303000" />
+      <workItem from="1627827059890" duration="7874000" />
     </task>
     <servers />
   </component>
