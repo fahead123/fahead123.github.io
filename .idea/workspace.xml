@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6d562fe-1b69-4113-976f-4d754d9dcebb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/y5-media.html" beforeDir="false" afterPath="$PROJECT_DIR$/y5-media.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +17,12 @@
   <component name="GitRewordedCommitMessages">
     <option name="commitMessagesMapping">
       <RewordedCommitMessageMapping>
-        <option name="originalMessage" value="done" />
-        <option name="rewordedMessage" value="Added espetadas page" />
+        <option name="originalMessage" value="Added client images to home" />
+        <option name="rewordedMessage" value="Added client images to home" />
       </RewordedCommitMessageMapping>
     </option>
     <option name="currentCommit" value="1" />
-    <option name="onto" value="29c5cdce0dc6edccfa0e8d0b090ddca5f4018978" />
+    <option name="onto" value="92a40cef893428c593b7189cc9bc6f2209e0e248" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -79,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627827057139</updated>
-      <workItem from="1627827059890" duration="8637000" />
+      <workItem from="1627827059890" duration="8725000" />
     </task>
     <servers />
   </component>
